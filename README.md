@@ -1,15 +1,13 @@
-# 01-prosthetic-myo-hand
+# PROSTHETIC MYOELECTRIC HAND
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 
-**🚧 WORK IN PROGRESS 🚧** 
 
-*We are currently working on updating this repository.*
-
+![IMG_0521](assets/IMG_0521.jpg)
 
 This repository contents the documentation of the ORTHOPUS' prosthetic myo hand which is currently under development.
 
-This new myoelectric prosthetic hand goes beyond the three-fingered  hands where the thumb faces the index and middle finger. Its specificity lies in the fact its thumb has flexion and abduction mobility. Thanks  to the myoelectric sensors (called electromyography ) on his/her  residual arm, the user can control the prosthetic by simply contracting  his/her muscles.
+This new myoelectric prosthetic hand goes beyond the three-fingered  hands where the thumb faces the index and middle finger. Its specificity lies in the fact its thumb has flexion and abduction mobility. Thanks to the myoelectric sensors (called electromyography ) on his/her  residual arm, the user can control the prosthetic by simply contracting  his/her muscles.
 
 The purpose of this prosthetic hand is to make  everyday life easier and extend the autonomy of upper-limb amputees by  helping them easily grip and handle objects with strength and precision.
 
@@ -17,15 +15,31 @@ The purpose of this prosthetic hand is to make  everyday life easier and extend 
 
 ## WARNING NOTICE BEFORE STARTING
 
-The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be apply to solutions developed and sold by ORTHOPUS which follow the regulations in force.
+The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be applied to solutions developed and sold by ORTHOPUS which follow the regulations in force.
 ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to documentation shared on github.
 
 
+## THIS SOLUTION IS UNDER DEVELOPMENT
 
-### D.I.Y Level
+**MyoHand is currently under development and provided code & CAD files can include mistakes and necessitate further improvements. The provided files are shared to provide a first overview of the project.**
 
-**Required devices** : 
 
+
+### About software : embedded source code release notes
+
+Few details :
+- IDE used : Atom + PlatformIO
+- Target platform : Arduino Nano Every (Atmega4809)
+
+
+### About hardware : mechanical design release notes
+
+Please note that :
+- the current version is using Alumunium 3D printing part to lower the development phase duration 
+- cables are not represented (crimped cable ⌀1mm) 
+- screws are not represented (M3 & M2 screws)
+- others components may be missing to build an entire prototype
+  
 
 
 ## CONTRIBUTION

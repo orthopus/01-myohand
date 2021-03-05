@@ -1,6 +1,8 @@
-# PROSTHETIC MYOELECTRIC HAND
+# MYO HAND
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
+
+![Generic badge](https://img.shields.io/badge/release-v1.2-blue)
 
 
 ![IMG_0521](assets/IMG_0521.jpg)

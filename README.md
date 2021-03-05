@@ -7,7 +7,7 @@
 
 ![IMG_0521](assets/IMG_0521.jpg)
 
-This repository contents the documentation of the ORTHOPUS' prosthetic myo hand which is currently under development.
+This repository contents the documentation of the ORTHOPUS' prosthetic myohand which is currently under development.
 
 This new myoelectric prosthetic hand goes beyond the three-fingered  hands where the thumb faces the index and middle finger. Its specificity lies in the fact its thumb has flexion and abduction mobility. Thanks to the myoelectric sensors (called electromyography ) on his/her  residual arm, the user can control the prosthetic by simply contracting  his/her muscles.
 

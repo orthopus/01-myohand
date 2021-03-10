@@ -27,7 +27,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 [<img src="assets/myohand_fusion360.png" alt="myohand_fusion360"/>](https://a360.co/2OGJdoU)
 
-*Click on the image to view the myohand in Fusion 360 viewer*
+🧐 *Tip : open the image in a new tab to view the myohand in Fusion 360 viewer*
 
 ### About software : embedded source code release notes
 

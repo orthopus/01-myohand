@@ -25,7 +25,8 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 **MyoHand is currently under development and provided code & CAD files can include mistakes and necessitate further improvements. The provided files are shared to provide a first overview of the project.**
 
-
+[<img src="assets/myohand_fusion360.png" alt="myohand_fusion360"/>](https://a360.co/2OGJdoU)
+*Click on the image to view the myohand in Fusion 360 viewer*
 
 ### About software : embedded source code release notes
 
